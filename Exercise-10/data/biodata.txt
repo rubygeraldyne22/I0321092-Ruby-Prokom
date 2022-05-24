@@ -1,0 +1,6 @@
+Nama: Ruby
+Umur: 19
+Alamat: Toraja
+Nama: Geraldyne
+Umur: 22
+Alamat: Jakarta
